@@ -6,8 +6,6 @@ interactive visualizations in Python.
 Check out our [home page](https://matplotlib.org/) for more information.
 
 
-![image](https://matplotlib.org/_static/readme_preview.png)
-
 # Overview
 This repository contains my practice files and exercises while learning Matplotlib, a widely used Python library for data visualization. The practice covers essential Matplotlib functionalities, including:
 
